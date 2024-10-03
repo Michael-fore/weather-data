@@ -10,9 +10,9 @@ class Ledger:
 
   '''
 
-  def __init__(self, file_name):
+  def __init__(self, product_label):
     self.startime = datetime.now()
-    self.file_name = file_name
+    self.product_label = product_label
   
   def log_error(self, error):
     '''
@@ -20,8 +20,20 @@ class Ledger:
     '''
     pass
 
-  def log_start(self):
+  def log_start(self, product):
     '''
     Log the start of a run
+    '''
+    pass
+
+  def log_message(self, message):
+    '''
+    Log a message to the ledger
+    '''
+    pass
+
+  def log_end(self):
+    '''
+    Log the end of a run
     '''
     pass
