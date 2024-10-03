@@ -2,6 +2,12 @@
 Supposed to make some publicly available weather data a bit easier to use.
 
 
+## Methodology
+- very much subject to change as I have no idea what I am doing
+Go from source file to parquet, where the file path has the location, time of prediction, resolution, then the actualy file saved as a parquet.
+
+There will be a ledger folder to track each run and keep a running hash of all of the files.
+
 ## NOAA NBM DATA
 `https://noaa-nbm-grib2-pds.s3.amazonaws.com/index.html`
 
