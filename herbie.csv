@@ -1,0 +1,295 @@
+,grib_message,start_byte,end_byte,range,reference_time,valid_time,variable,level,forecast_time,?,??,???,search_this
+0,1,0,1572966.0,0-1572966,2024-04-01,2024-04-01 01:00:00,APTMP,2 m above ground,1 hour fcst,,,,:APTMP:2 m above ground:1 hour fcst:nan:nan
+1,2,1572967,2887441.0,1572967-2887441,2024-04-01,2024-04-01 01:00:00,CDCB,reserved,1 hour fcst,,,,:CDCB:reserved:1 hour fcst:nan:nan
+2,3,2887442,3648490.0,2887442-3648490,2024-04-01,2024-04-01 01:00:00,TCDC,reserved,1 hour fcst,,,,:TCDC:reserved:1 hour fcst:nan:nan
+3,4,3648491,5288241.0,3648491-5288241,2024-04-01,2024-04-01 01:00:00,CDCTOP,reserved,1 hour fcst,,,,:CDCTOP:reserved:1 hour fcst:nan:nan
+4,5,5288242,6924640.0,5288242-6924640,2024-04-01,2024-04-01 01:00:00,CDCB,reserved,1 hour fcst,,,,:CDCB:reserved:1 hour fcst:nan:nan
+5,6,6924641,7702946.0,6924641-7702946,2024-04-01,2024-04-01 01:00:00,TCDC,reserved,1 hour fcst,,,,:TCDC:reserved:1 hour fcst:nan:nan
+6,7,7702947,9447327.0,7702947-9447327,2024-04-01,2024-04-01 01:00:00,CDCTOP,reserved,1 hour fcst,,,,:CDCTOP:reserved:1 hour fcst:nan:nan
+7,8,9447328,9624003.0,9447328-9624003,2024-04-01,2024-04-01 01:00:00,CDCB,reserved,1 hour fcst,,,,:CDCB:reserved:1 hour fcst:nan:nan
+8,9,9624004,9890703.0,9624004-9890703,2024-04-01,2024-04-01 01:00:00,TCDC,reserved,1 hour fcst,,,,:TCDC:reserved:1 hour fcst:nan:nan
+9,10,9890704,10084143.0,9890704-10084143,2024-04-01,2024-04-01 01:00:00,CDCTOP,reserved,1 hour fcst,,,,:CDCTOP:reserved:1 hour fcst:nan:nan
+10,11,10084144,10820801.0,10084144-10820801,2024-04-01,2024-04-01 01:00:00,CDCB,high cloud layer,1 hour fcst,,,,:CDCB:high cloud layer:1 hour fcst:nan:nan
+11,12,10820802,11170773.0,10820802-11170773,2024-04-01,2024-04-01 01:00:00,TCDC,high cloud layer,1 hour fcst,,,,:TCDC:high cloud layer:1 hour fcst:nan:nan
+12,13,11170774,11181577.0,11170774-11181577,2024-04-01,2024-04-01 01:00:00,ICPRB,152.4 m above mean sea level,1 hour fcst,,,,:ICPRB:152.4 m above mean sea level:1 hour fcst:nan:nan
+13,14,11181578,11204746.0,11181578-11204746,2024-04-01,2024-04-01 01:00:00,ICPRB,304.8 m above mean sea level,1 hour fcst,,,,:ICPRB:304.8 m above mean sea level:1 hour fcst:nan:nan
+14,15,11204747,11246350.0,11204747-11246350,2024-04-01,2024-04-01 01:00:00,ICPRB,457.2 m above mean sea level,1 hour fcst,,,,:ICPRB:457.2 m above mean sea level:1 hour fcst:nan:nan
+15,16,11246351,11314735.0,11246351-11314735,2024-04-01,2024-04-01 01:00:00,ICPRB,609.6 m above mean sea level,1 hour fcst,,,,:ICPRB:609.6 m above mean sea level:1 hour fcst:nan:nan
+16,17,11314736,11402779.0,11314736-11402779,2024-04-01,2024-04-01 01:00:00,ICPRB,762 m above mean sea level,1 hour fcst,,,,:ICPRB:762 m above mean sea level:1 hour fcst:nan:nan
+17,18,11402780,11533039.0,11402780-11533039,2024-04-01,2024-04-01 01:00:00,ICPRB,914.4 m above mean sea level,1 hour fcst,,,,:ICPRB:914.4 m above mean sea level:1 hour fcst:nan:nan
+18,19,11533040,11692530.0,11533040-11692530,2024-04-01,2024-04-01 01:00:00,ICPRB,1066.8 m above mean sea level,1 hour fcst,,,,:ICPRB:1066.8 m above mean sea level:1 hour fcst:nan:nan
+19,20,11692531,11865611.0,11692531-11865611,2024-04-01,2024-04-01 01:00:00,ICPRB,1219.2 m above mean sea level,1 hour fcst,,,,:ICPRB:1219.2 m above mean sea level:1 hour fcst:nan:nan
+20,21,11865612,12044699.0,11865612-12044699,2024-04-01,2024-04-01 01:00:00,ICPRB,1371.6 m above mean sea level,1 hour fcst,,,,:ICPRB:1371.6 m above mean sea level:1 hour fcst:nan:nan
+21,22,12044700,12234367.0,12044700-12234367,2024-04-01,2024-04-01 01:00:00,ICPRB,1524 m above mean sea level,1 hour fcst,,,,:ICPRB:1524 m above mean sea level:1 hour fcst:nan:nan
+22,23,12234368,12424306.0,12234368-12424306,2024-04-01,2024-04-01 01:00:00,ICPRB,1676.4 m above mean sea level,1 hour fcst,,,,:ICPRB:1676.4 m above mean sea level:1 hour fcst:nan:nan
+23,24,12424307,12628336.0,12424307-12628336,2024-04-01,2024-04-01 01:00:00,ICPRB,1828.8 m above mean sea level,1 hour fcst,,,,:ICPRB:1828.8 m above mean sea level:1 hour fcst:nan:nan
+24,25,12628337,12858016.0,12628337-12858016,2024-04-01,2024-04-01 01:00:00,ICPRB,1981.2 m above mean sea level,1 hour fcst,,,,:ICPRB:1981.2 m above mean sea level:1 hour fcst:nan:nan
+25,26,12858017,13091742.0,12858017-13091742,2024-04-01,2024-04-01 01:00:00,ICPRB,2133.6 m above mean sea level,1 hour fcst,,,,:ICPRB:2133.6 m above mean sea level:1 hour fcst:nan:nan
+26,27,13091743,13347759.0,13091743-13347759,2024-04-01,2024-04-01 01:00:00,ICPRB,2286 m above mean sea level,1 hour fcst,,,,:ICPRB:2286 m above mean sea level:1 hour fcst:nan:nan
+27,28,13347760,13598824.0,13347760-13598824,2024-04-01,2024-04-01 01:00:00,ICPRB,2438.4 m above mean sea level,1 hour fcst,,,,:ICPRB:2438.4 m above mean sea level:1 hour fcst:nan:nan
+28,29,13598825,13871604.0,13598825-13871604,2024-04-01,2024-04-01 01:00:00,ICPRB,2590.8 m above mean sea level,1 hour fcst,,,,:ICPRB:2590.8 m above mean sea level:1 hour fcst:nan:nan
+29,30,13871605,14146430.0,13871605-14146430,2024-04-01,2024-04-01 01:00:00,ICPRB,2743.2 m above mean sea level,1 hour fcst,,,,:ICPRB:2743.2 m above mean sea level:1 hour fcst:nan:nan
+30,31,14146431,14435757.0,14146431-14435757,2024-04-01,2024-04-01 01:00:00,ICPRB,2895.6 m above mean sea level,1 hour fcst,,,,:ICPRB:2895.6 m above mean sea level:1 hour fcst:nan:nan
+31,32,14435758,14733666.0,14435758-14733666,2024-04-01,2024-04-01 01:00:00,ICPRB,3048 m above mean sea level,1 hour fcst,,,,:ICPRB:3048 m above mean sea level:1 hour fcst:nan:nan
+32,33,14733667,15032157.0,14733667-15032157,2024-04-01,2024-04-01 01:00:00,ICPRB,3200.4 m above mean sea level,1 hour fcst,,,,:ICPRB:3200.4 m above mean sea level:1 hour fcst:nan:nan
+33,34,15032158,15325567.0,15032158-15325567,2024-04-01,2024-04-01 01:00:00,ICPRB,3352.8 m above mean sea level,1 hour fcst,,,,:ICPRB:3352.8 m above mean sea level:1 hour fcst:nan:nan
+34,35,15325568,15610577.0,15325568-15610577,2024-04-01,2024-04-01 01:00:00,ICPRB,3505.2 m above mean sea level,1 hour fcst,,,,:ICPRB:3505.2 m above mean sea level:1 hour fcst:nan:nan
+35,36,15610578,15891864.0,15610578-15891864,2024-04-01,2024-04-01 01:00:00,ICPRB,3657.6 m above mean sea level,1 hour fcst,,,,:ICPRB:3657.6 m above mean sea level:1 hour fcst:nan:nan
+36,37,15891865,16168549.0,15891865-16168549,2024-04-01,2024-04-01 01:00:00,ICPRB,3810 m above mean sea level,1 hour fcst,,,,:ICPRB:3810 m above mean sea level:1 hour fcst:nan:nan
+37,38,16168550,16437086.0,16168550-16437086,2024-04-01,2024-04-01 01:00:00,ICPRB,3962.4 m above mean sea level,1 hour fcst,,,,:ICPRB:3962.4 m above mean sea level:1 hour fcst:nan:nan
+38,39,16437087,16702603.0,16437087-16702603,2024-04-01,2024-04-01 01:00:00,ICPRB,4114.8 m above mean sea level,1 hour fcst,,,,:ICPRB:4114.8 m above mean sea level:1 hour fcst:nan:nan
+39,40,16702604,16963750.0,16702604-16963750,2024-04-01,2024-04-01 01:00:00,ICPRB,4267.2 m above mean sea level,1 hour fcst,,,,:ICPRB:4267.2 m above mean sea level:1 hour fcst:nan:nan
+40,41,16963751,17221779.0,16963751-17221779,2024-04-01,2024-04-01 01:00:00,ICPRB,4419.6 m above mean sea level,1 hour fcst,,,,:ICPRB:4419.6 m above mean sea level:1 hour fcst:nan:nan
+41,42,17221780,17475864.0,17221780-17475864,2024-04-01,2024-04-01 01:00:00,ICPRB,4572 m above mean sea level,1 hour fcst,,,,:ICPRB:4572 m above mean sea level:1 hour fcst:nan:nan
+42,43,17475865,17719684.0,17475865-17719684,2024-04-01,2024-04-01 01:00:00,ICPRB,4724.4 m above mean sea level,1 hour fcst,,,,:ICPRB:4724.4 m above mean sea level:1 hour fcst:nan:nan
+43,44,17719685,17951926.0,17719685-17951926,2024-04-01,2024-04-01 01:00:00,ICPRB,4876.8 m above mean sea level,1 hour fcst,,,,:ICPRB:4876.8 m above mean sea level:1 hour fcst:nan:nan
+44,45,17951927,18164800.0,17951927-18164800,2024-04-01,2024-04-01 01:00:00,ICPRB,5029.2 m above mean sea level,1 hour fcst,,,,:ICPRB:5029.2 m above mean sea level:1 hour fcst:nan:nan
+45,46,18164801,18371920.0,18164801-18371920,2024-04-01,2024-04-01 01:00:00,ICPRB,5181.6 m above mean sea level,1 hour fcst,,,,:ICPRB:5181.6 m above mean sea level:1 hour fcst:nan:nan
+46,47,18371921,18569154.0,18371921-18569154,2024-04-01,2024-04-01 01:00:00,ICPRB,5334 m above mean sea level,1 hour fcst,,,,:ICPRB:5334 m above mean sea level:1 hour fcst:nan:nan
+47,48,18569155,18750791.0,18569155-18750791,2024-04-01,2024-04-01 01:00:00,ICPRB,5486.4 m above mean sea level,1 hour fcst,,,,:ICPRB:5486.4 m above mean sea level:1 hour fcst:nan:nan
+48,49,18750792,18917904.0,18750792-18917904,2024-04-01,2024-04-01 01:00:00,ICPRB,5638.8 m above mean sea level,1 hour fcst,,,,:ICPRB:5638.8 m above mean sea level:1 hour fcst:nan:nan
+49,50,18917905,19077510.0,18917905-19077510,2024-04-01,2024-04-01 01:00:00,ICPRB,5791.2 m above mean sea level,1 hour fcst,,,,:ICPRB:5791.2 m above mean sea level:1 hour fcst:nan:nan
+50,51,19077511,19213986.0,19077511-19213986,2024-04-01,2024-04-01 01:00:00,ICPRB,5943.6 m above mean sea level,1 hour fcst,,,,:ICPRB:5943.6 m above mean sea level:1 hour fcst:nan:nan
+51,52,19213987,19340724.0,19213987-19340724,2024-04-01,2024-04-01 01:00:00,ICPRB,6096 m above mean sea level,1 hour fcst,,,,:ICPRB:6096 m above mean sea level:1 hour fcst:nan:nan
+52,53,19340725,19457044.0,19340725-19457044,2024-04-01,2024-04-01 01:00:00,ICPRB,6248.4 m above mean sea level,1 hour fcst,,,,:ICPRB:6248.4 m above mean sea level:1 hour fcst:nan:nan
+53,54,19457045,19549779.0,19457045-19549779,2024-04-01,2024-04-01 01:00:00,ICPRB,6400.8 m above mean sea level,1 hour fcst,,,,:ICPRB:6400.8 m above mean sea level:1 hour fcst:nan:nan
+54,55,19549780,19639901.0,19549780-19639901,2024-04-01,2024-04-01 01:00:00,ICPRB,6553.2 m above mean sea level,1 hour fcst,,,,:ICPRB:6553.2 m above mean sea level:1 hour fcst:nan:nan
+55,56,19639902,19726015.0,19639902-19726015,2024-04-01,2024-04-01 01:00:00,ICPRB,6705.6 m above mean sea level,1 hour fcst,,,,:ICPRB:6705.6 m above mean sea level:1 hour fcst:nan:nan
+56,57,19726016,19802364.0,19726016-19802364,2024-04-01,2024-04-01 01:00:00,ICPRB,6858 m above mean sea level,1 hour fcst,,,,:ICPRB:6858 m above mean sea level:1 hour fcst:nan:nan
+57,58,19802365,19875429.0,19802365-19875429,2024-04-01,2024-04-01 01:00:00,ICPRB,7010.4 m above mean sea level,1 hour fcst,,,,:ICPRB:7010.4 m above mean sea level:1 hour fcst:nan:nan
+58,59,19875430,19948946.0,19875430-19948946,2024-04-01,2024-04-01 01:00:00,ICPRB,7162.8 m above mean sea level,1 hour fcst,,,,:ICPRB:7162.8 m above mean sea level:1 hour fcst:nan:nan
+59,60,19948947,20016556.0,19948947-20016556,2024-04-01,2024-04-01 01:00:00,ICPRB,7315.2 m above mean sea level,1 hour fcst,,,,:ICPRB:7315.2 m above mean sea level:1 hour fcst:nan:nan
+60,61,20016557,20078669.0,20016557-20078669,2024-04-01,2024-04-01 01:00:00,ICPRB,7467.6 m above mean sea level,1 hour fcst,,,,:ICPRB:7467.6 m above mean sea level:1 hour fcst:nan:nan
+61,62,20078670,20138775.0,20078670-20138775,2024-04-01,2024-04-01 01:00:00,ICPRB,7620 m above mean sea level,1 hour fcst,,,,:ICPRB:7620 m above mean sea level:1 hour fcst:nan:nan
+62,63,20138776,20191150.0,20138776-20191150,2024-04-01,2024-04-01 01:00:00,ICPRB,7772.4 m above mean sea level,1 hour fcst,,,,:ICPRB:7772.4 m above mean sea level:1 hour fcst:nan:nan
+63,64,20191151,20226274.0,20191151-20226274,2024-04-01,2024-04-01 01:00:00,ICPRB,7924.8 m above mean sea level,1 hour fcst,,,,:ICPRB:7924.8 m above mean sea level:1 hour fcst:nan:nan
+64,65,20226275,20259362.0,20226275-20259362,2024-04-01,2024-04-01 01:00:00,ICPRB,8077.2 m above mean sea level,1 hour fcst,,,,:ICPRB:8077.2 m above mean sea level:1 hour fcst:nan:nan
+65,66,20259363,20287903.0,20259363-20287903,2024-04-01,2024-04-01 01:00:00,ICPRB,8229.6 m above mean sea level,1 hour fcst,,,,:ICPRB:8229.6 m above mean sea level:1 hour fcst:nan:nan
+66,67,20287904,20299892.0,20287904-20299892,2024-04-01,2024-04-01 01:00:00,ICPRB,8382 m above mean sea level,1 hour fcst,,,,:ICPRB:8382 m above mean sea level:1 hour fcst:nan:nan
+67,68,20299893,20303637.0,20299893-20303637,2024-04-01,2024-04-01 01:00:00,ICPRB,8534.4 m above mean sea level,1 hour fcst,,,,:ICPRB:8534.4 m above mean sea level:1 hour fcst:nan:nan
+68,69,20303638,20306927.0,20303638-20306927,2024-04-01,2024-04-01 01:00:00,ICPRB,8686.8 m above mean sea level,1 hour fcst,,,,:ICPRB:8686.8 m above mean sea level:1 hour fcst:nan:nan
+69,70,20306928,20309519.0,20306928-20309519,2024-04-01,2024-04-01 01:00:00,ICPRB,8839.2 m above mean sea level,1 hour fcst,,,,:ICPRB:8839.2 m above mean sea level:1 hour fcst:nan:nan
+70,71,20309520,20310102.0,20309520-20310102,2024-04-01,2024-04-01 01:00:00,ICPRB,8991.6 m above mean sea level,1 hour fcst,,,,:ICPRB:8991.6 m above mean sea level:1 hour fcst:nan:nan
+71,72,20310103,20310316.0,20310103-20310316,2024-04-01,2024-04-01 01:00:00,ICPRB,9144 m above mean sea level,1 hour fcst,,,,:ICPRB:9144 m above mean sea level:1 hour fcst:nan:nan
+72,73,20310317,20315961.0,20310317-20315961,2024-04-01,2024-04-01 01:00:00,ICSEV,152.4 m above mean sea level,1 hour fcst,,,,:ICSEV:152.4 m above mean sea level:1 hour fcst:nan:nan
+73,74,20315962,20325129.0,20315962-20325129,2024-04-01,2024-04-01 01:00:00,ICSEV,304.8 m above mean sea level,1 hour fcst,,,,:ICSEV:304.8 m above mean sea level:1 hour fcst:nan:nan
+74,75,20325130,20338310.0,20325130-20338310,2024-04-01,2024-04-01 01:00:00,ICSEV,457.2 m above mean sea level,1 hour fcst,,,,:ICSEV:457.2 m above mean sea level:1 hour fcst:nan:nan
+75,76,20338311,20359139.0,20338311-20359139,2024-04-01,2024-04-01 01:00:00,ICSEV,609.6 m above mean sea level,1 hour fcst,,,,:ICSEV:609.6 m above mean sea level:1 hour fcst:nan:nan
+76,77,20359140,20386706.0,20359140-20386706,2024-04-01,2024-04-01 01:00:00,ICSEV,762 m above mean sea level,1 hour fcst,,,,:ICSEV:762 m above mean sea level:1 hour fcst:nan:nan
+77,78,20386707,20421822.0,20386707-20421822,2024-04-01,2024-04-01 01:00:00,ICSEV,914.4 m above mean sea level,1 hour fcst,,,,:ICSEV:914.4 m above mean sea level:1 hour fcst:nan:nan
+78,79,20421823,20465025.0,20421823-20465025,2024-04-01,2024-04-01 01:00:00,ICSEV,1066.8 m above mean sea level,1 hour fcst,,,,:ICSEV:1066.8 m above mean sea level:1 hour fcst:nan:nan
+79,80,20465026,20516105.0,20465026-20516105,2024-04-01,2024-04-01 01:00:00,ICSEV,1219.2 m above mean sea level,1 hour fcst,,,,:ICSEV:1219.2 m above mean sea level:1 hour fcst:nan:nan
+80,81,20516106,20570470.0,20516106-20570470,2024-04-01,2024-04-01 01:00:00,ICSEV,1371.6 m above mean sea level,1 hour fcst,,,,:ICSEV:1371.6 m above mean sea level:1 hour fcst:nan:nan
+81,82,20570471,20629073.0,20570471-20629073,2024-04-01,2024-04-01 01:00:00,ICSEV,1524 m above mean sea level,1 hour fcst,,,,:ICSEV:1524 m above mean sea level:1 hour fcst:nan:nan
+82,83,20629074,20691511.0,20629074-20691511,2024-04-01,2024-04-01 01:00:00,ICSEV,1676.4 m above mean sea level,1 hour fcst,,,,:ICSEV:1676.4 m above mean sea level:1 hour fcst:nan:nan
+83,84,20691512,20758369.0,20691512-20758369,2024-04-01,2024-04-01 01:00:00,ICSEV,1828.8 m above mean sea level,1 hour fcst,,,,:ICSEV:1828.8 m above mean sea level:1 hour fcst:nan:nan
+84,85,20758370,20838339.0,20758370-20838339,2024-04-01,2024-04-01 01:00:00,ICSEV,1981.2 m above mean sea level,1 hour fcst,,,,:ICSEV:1981.2 m above mean sea level:1 hour fcst:nan:nan
+85,86,20838340,20925030.0,20838340-20925030,2024-04-01,2024-04-01 01:00:00,ICSEV,2133.6 m above mean sea level,1 hour fcst,,,,:ICSEV:2133.6 m above mean sea level:1 hour fcst:nan:nan
+86,87,20925031,21020225.0,20925031-21020225,2024-04-01,2024-04-01 01:00:00,ICSEV,2286 m above mean sea level,1 hour fcst,,,,:ICSEV:2286 m above mean sea level:1 hour fcst:nan:nan
+87,88,21020226,21114875.0,21020226-21114875,2024-04-01,2024-04-01 01:00:00,ICSEV,2438.4 m above mean sea level,1 hour fcst,,,,:ICSEV:2438.4 m above mean sea level:1 hour fcst:nan:nan
+88,89,21114876,21217167.0,21114876-21217167,2024-04-01,2024-04-01 01:00:00,ICSEV,2590.8 m above mean sea level,1 hour fcst,,,,:ICSEV:2590.8 m above mean sea level:1 hour fcst:nan:nan
+89,90,21217168,21320925.0,21217168-21320925,2024-04-01,2024-04-01 01:00:00,ICSEV,2743.2 m above mean sea level,1 hour fcst,,,,:ICSEV:2743.2 m above mean sea level:1 hour fcst:nan:nan
+90,91,21320926,21428844.0,21320926-21428844,2024-04-01,2024-04-01 01:00:00,ICSEV,2895.6 m above mean sea level,1 hour fcst,,,,:ICSEV:2895.6 m above mean sea level:1 hour fcst:nan:nan
+91,92,21428845,21539188.0,21428845-21539188,2024-04-01,2024-04-01 01:00:00,ICSEV,3048 m above mean sea level,1 hour fcst,,,,:ICSEV:3048 m above mean sea level:1 hour fcst:nan:nan
+92,93,21539189,21649140.0,21539189-21649140,2024-04-01,2024-04-01 01:00:00,ICSEV,3200.4 m above mean sea level,1 hour fcst,,,,:ICSEV:3200.4 m above mean sea level:1 hour fcst:nan:nan
+93,94,21649141,21758013.0,21649141-21758013,2024-04-01,2024-04-01 01:00:00,ICSEV,3352.8 m above mean sea level,1 hour fcst,,,,:ICSEV:3352.8 m above mean sea level:1 hour fcst:nan:nan
+94,95,21758014,21866698.0,21758014-21866698,2024-04-01,2024-04-01 01:00:00,ICSEV,3505.2 m above mean sea level,1 hour fcst,,,,:ICSEV:3505.2 m above mean sea level:1 hour fcst:nan:nan
+95,96,21866699,21974954.0,21866699-21974954,2024-04-01,2024-04-01 01:00:00,ICSEV,3657.6 m above mean sea level,1 hour fcst,,,,:ICSEV:3657.6 m above mean sea level:1 hour fcst:nan:nan
+96,97,21974955,22082332.0,21974955-22082332,2024-04-01,2024-04-01 01:00:00,ICSEV,3810 m above mean sea level,1 hour fcst,,,,:ICSEV:3810 m above mean sea level:1 hour fcst:nan:nan
+97,98,22082333,22187059.0,22082333-22187059,2024-04-01,2024-04-01 01:00:00,ICSEV,3962.4 m above mean sea level,1 hour fcst,,,,:ICSEV:3962.4 m above mean sea level:1 hour fcst:nan:nan
+98,99,22187060,22293895.0,22187060-22293895,2024-04-01,2024-04-01 01:00:00,ICSEV,4114.8 m above mean sea level,1 hour fcst,,,,:ICSEV:4114.8 m above mean sea level:1 hour fcst:nan:nan
+99,100,22293896,22395850.0,22293896-22395850,2024-04-01,2024-04-01 01:00:00,ICSEV,4267.2 m above mean sea level,1 hour fcst,,,,:ICSEV:4267.2 m above mean sea level:1 hour fcst:nan:nan
+100,101,22395851,22498641.0,22395851-22498641,2024-04-01,2024-04-01 01:00:00,ICSEV,4419.6 m above mean sea level,1 hour fcst,,,,:ICSEV:4419.6 m above mean sea level:1 hour fcst:nan:nan
+101,102,22498642,22599758.0,22498642-22599758,2024-04-01,2024-04-01 01:00:00,ICSEV,4572 m above mean sea level,1 hour fcst,,,,:ICSEV:4572 m above mean sea level:1 hour fcst:nan:nan
+102,103,22599759,22698561.0,22599759-22698561,2024-04-01,2024-04-01 01:00:00,ICSEV,4724.4 m above mean sea level,1 hour fcst,,,,:ICSEV:4724.4 m above mean sea level:1 hour fcst:nan:nan
+103,104,22698562,22794674.0,22698562-22794674,2024-04-01,2024-04-01 01:00:00,ICSEV,4876.8 m above mean sea level,1 hour fcst,,,,:ICSEV:4876.8 m above mean sea level:1 hour fcst:nan:nan
+104,105,22794675,22889238.0,22794675-22889238,2024-04-01,2024-04-01 01:00:00,ICSEV,5029.2 m above mean sea level,1 hour fcst,,,,:ICSEV:5029.2 m above mean sea level:1 hour fcst:nan:nan
+105,106,22889239,22978372.0,22889239-22978372,2024-04-01,2024-04-01 01:00:00,ICSEV,5181.6 m above mean sea level,1 hour fcst,,,,:ICSEV:5181.6 m above mean sea level:1 hour fcst:nan:nan
+106,107,22978373,23063868.0,22978373-23063868,2024-04-01,2024-04-01 01:00:00,ICSEV,5334 m above mean sea level,1 hour fcst,,,,:ICSEV:5334 m above mean sea level:1 hour fcst:nan:nan
+107,108,23063869,23150127.0,23063869-23150127,2024-04-01,2024-04-01 01:00:00,ICSEV,5486.4 m above mean sea level,1 hour fcst,,,,:ICSEV:5486.4 m above mean sea level:1 hour fcst:nan:nan
+108,109,23150128,23225997.0,23150128-23225997,2024-04-01,2024-04-01 01:00:00,ICSEV,5638.8 m above mean sea level,1 hour fcst,,,,:ICSEV:5638.8 m above mean sea level:1 hour fcst:nan:nan
+109,110,23225998,23298375.0,23225998-23298375,2024-04-01,2024-04-01 01:00:00,ICSEV,5791.2 m above mean sea level,1 hour fcst,,,,:ICSEV:5791.2 m above mean sea level:1 hour fcst:nan:nan
+110,111,23298376,23360645.0,23298376-23360645,2024-04-01,2024-04-01 01:00:00,ICSEV,5943.6 m above mean sea level,1 hour fcst,,,,:ICSEV:5943.6 m above mean sea level:1 hour fcst:nan:nan
+111,112,23360646,23416168.0,23360646-23416168,2024-04-01,2024-04-01 01:00:00,ICSEV,6096 m above mean sea level,1 hour fcst,,,,:ICSEV:6096 m above mean sea level:1 hour fcst:nan:nan
+112,113,23416169,23467122.0,23416169-23467122,2024-04-01,2024-04-01 01:00:00,ICSEV,6248.4 m above mean sea level,1 hour fcst,,,,:ICSEV:6248.4 m above mean sea level:1 hour fcst:nan:nan
+113,114,23467123,23510816.0,23467123-23510816,2024-04-01,2024-04-01 01:00:00,ICSEV,6400.8 m above mean sea level,1 hour fcst,,,,:ICSEV:6400.8 m above mean sea level:1 hour fcst:nan:nan
+114,115,23510817,23551256.0,23510817-23551256,2024-04-01,2024-04-01 01:00:00,ICSEV,6553.2 m above mean sea level,1 hour fcst,,,,:ICSEV:6553.2 m above mean sea level:1 hour fcst:nan:nan
+115,116,23551257,23589530.0,23551257-23589530,2024-04-01,2024-04-01 01:00:00,ICSEV,6705.6 m above mean sea level,1 hour fcst,,,,:ICSEV:6705.6 m above mean sea level:1 hour fcst:nan:nan
+116,117,23589531,23622928.0,23589531-23622928,2024-04-01,2024-04-01 01:00:00,ICSEV,6858 m above mean sea level,1 hour fcst,,,,:ICSEV:6858 m above mean sea level:1 hour fcst:nan:nan
+117,118,23622929,23656861.0,23622929-23656861,2024-04-01,2024-04-01 01:00:00,ICSEV,7010.4 m above mean sea level,1 hour fcst,,,,:ICSEV:7010.4 m above mean sea level:1 hour fcst:nan:nan
+118,119,23656862,23691347.0,23656862-23691347,2024-04-01,2024-04-01 01:00:00,ICSEV,7162.8 m above mean sea level,1 hour fcst,,,,:ICSEV:7162.8 m above mean sea level:1 hour fcst:nan:nan
+119,120,23691348,23723920.0,23691348-23723920,2024-04-01,2024-04-01 01:00:00,ICSEV,7315.2 m above mean sea level,1 hour fcst,,,,:ICSEV:7315.2 m above mean sea level:1 hour fcst:nan:nan
+120,121,23723921,23752700.0,23723921-23752700,2024-04-01,2024-04-01 01:00:00,ICSEV,7467.6 m above mean sea level,1 hour fcst,,,,:ICSEV:7467.6 m above mean sea level:1 hour fcst:nan:nan
+121,122,23752701,23776779.0,23752701-23776779,2024-04-01,2024-04-01 01:00:00,ICSEV,7620 m above mean sea level,1 hour fcst,,,,:ICSEV:7620 m above mean sea level:1 hour fcst:nan:nan
+122,123,23776780,23799640.0,23776780-23799640,2024-04-01,2024-04-01 01:00:00,ICSEV,7772.4 m above mean sea level,1 hour fcst,,,,:ICSEV:7772.4 m above mean sea level:1 hour fcst:nan:nan
+123,124,23799641,23817293.0,23799641-23817293,2024-04-01,2024-04-01 01:00:00,ICSEV,7924.8 m above mean sea level,1 hour fcst,,,,:ICSEV:7924.8 m above mean sea level:1 hour fcst:nan:nan
+124,125,23817294,23832770.0,23817294-23832770,2024-04-01,2024-04-01 01:00:00,ICSEV,8077.2 m above mean sea level,1 hour fcst,,,,:ICSEV:8077.2 m above mean sea level:1 hour fcst:nan:nan
+125,126,23832771,23844959.0,23832771-23844959,2024-04-01,2024-04-01 01:00:00,ICSEV,8229.6 m above mean sea level,1 hour fcst,,,,:ICSEV:8229.6 m above mean sea level:1 hour fcst:nan:nan
+126,127,23844960,23857114.0,23844960-23857114,2024-04-01,2024-04-01 01:00:00,ICSEV,8382 m above mean sea level,1 hour fcst,,,,:ICSEV:8382 m above mean sea level:1 hour fcst:nan:nan
+127,128,23857115,23859399.0,23857115-23859399,2024-04-01,2024-04-01 01:00:00,ICSEV,8534.4 m above mean sea level,1 hour fcst,,,,:ICSEV:8534.4 m above mean sea level:1 hour fcst:nan:nan
+128,129,23859400,23861392.0,23859400-23861392,2024-04-01,2024-04-01 01:00:00,ICSEV,8686.8 m above mean sea level,1 hour fcst,,,,:ICSEV:8686.8 m above mean sea level:1 hour fcst:nan:nan
+129,130,23861393,23863385.0,23861393-23863385,2024-04-01,2024-04-01 01:00:00,ICSEV,8839.2 m above mean sea level,1 hour fcst,,,,:ICSEV:8839.2 m above mean sea level:1 hour fcst:nan:nan
+130,131,23863386,23864444.0,23863386-23864444,2024-04-01,2024-04-01 01:00:00,ICSEV,8991.6 m above mean sea level,1 hour fcst,,,,:ICSEV:8991.6 m above mean sea level:1 hour fcst:nan:nan
+131,132,23864445,23864658.0,23864445-23864658,2024-04-01,2024-04-01 01:00:00,ICSEV,9144 m above mean sea level,1 hour fcst,,,,:ICSEV:9144 m above mean sea level:1 hour fcst:nan:nan
+132,133,23864659,23868528.0,23864659-23868528,2024-04-01,2024-04-01 01:00:00,SIPD,152.4 m above mean sea level,1 hour fcst,,,,:SIPD:152.4 m above mean sea level:1 hour fcst:nan:nan
+133,134,23868529,23874501.0,23868529-23874501,2024-04-01,2024-04-01 01:00:00,SIPD,304.8 m above mean sea level,1 hour fcst,,,,:SIPD:304.8 m above mean sea level:1 hour fcst:nan:nan
+134,135,23874502,23883891.0,23874502-23883891,2024-04-01,2024-04-01 01:00:00,SIPD,457.2 m above mean sea level,1 hour fcst,,,,:SIPD:457.2 m above mean sea level:1 hour fcst:nan:nan
+135,136,23883892,23896010.0,23883892-23896010,2024-04-01,2024-04-01 01:00:00,SIPD,609.6 m above mean sea level,1 hour fcst,,,,:SIPD:609.6 m above mean sea level:1 hour fcst:nan:nan
+136,137,23896011,23909683.0,23896011-23909683,2024-04-01,2024-04-01 01:00:00,SIPD,762 m above mean sea level,1 hour fcst,,,,:SIPD:762 m above mean sea level:1 hour fcst:nan:nan
+137,138,23909684,23929108.0,23909684-23929108,2024-04-01,2024-04-01 01:00:00,SIPD,914.4 m above mean sea level,1 hour fcst,,,,:SIPD:914.4 m above mean sea level:1 hour fcst:nan:nan
+138,139,23929109,23951082.0,23929109-23951082,2024-04-01,2024-04-01 01:00:00,SIPD,1066.8 m above mean sea level,1 hour fcst,,,,:SIPD:1066.8 m above mean sea level:1 hour fcst:nan:nan
+139,140,23951083,23974147.0,23951083-23974147,2024-04-01,2024-04-01 01:00:00,SIPD,1219.2 m above mean sea level,1 hour fcst,,,,:SIPD:1219.2 m above mean sea level:1 hour fcst:nan:nan
+140,141,23974148,23998943.0,23974148-23998943,2024-04-01,2024-04-01 01:00:00,SIPD,1371.6 m above mean sea level,1 hour fcst,,,,:SIPD:1371.6 m above mean sea level:1 hour fcst:nan:nan
+141,142,23998944,24027507.0,23998944-24027507,2024-04-01,2024-04-01 01:00:00,SIPD,1524 m above mean sea level,1 hour fcst,,,,:SIPD:1524 m above mean sea level:1 hour fcst:nan:nan
+142,143,24027508,24057616.0,24027508-24057616,2024-04-01,2024-04-01 01:00:00,SIPD,1676.4 m above mean sea level,1 hour fcst,,,,:SIPD:1676.4 m above mean sea level:1 hour fcst:nan:nan
+143,144,24057617,24093616.0,24057617-24093616,2024-04-01,2024-04-01 01:00:00,SIPD,1828.8 m above mean sea level,1 hour fcst,,,,:SIPD:1828.8 m above mean sea level:1 hour fcst:nan:nan
+144,145,24093617,24137506.0,24093617-24137506,2024-04-01,2024-04-01 01:00:00,SIPD,1981.2 m above mean sea level,1 hour fcst,,,,:SIPD:1981.2 m above mean sea level:1 hour fcst:nan:nan
+145,146,24137507,24181021.0,24137507-24181021,2024-04-01,2024-04-01 01:00:00,SIPD,2133.6 m above mean sea level,1 hour fcst,,,,:SIPD:2133.6 m above mean sea level:1 hour fcst:nan:nan
+146,147,24181022,24229735.0,24181022-24229735,2024-04-01,2024-04-01 01:00:00,SIPD,2286 m above mean sea level,1 hour fcst,,,,:SIPD:2286 m above mean sea level:1 hour fcst:nan:nan
+147,148,24229736,24276186.0,24229736-24276186,2024-04-01,2024-04-01 01:00:00,SIPD,2438.4 m above mean sea level,1 hour fcst,,,,:SIPD:2438.4 m above mean sea level:1 hour fcst:nan:nan
+148,149,24276187,24326324.0,24276187-24326324,2024-04-01,2024-04-01 01:00:00,SIPD,2590.8 m above mean sea level,1 hour fcst,,,,:SIPD:2590.8 m above mean sea level:1 hour fcst:nan:nan
+149,150,24326325,24374670.0,24326325-24374670,2024-04-01,2024-04-01 01:00:00,SIPD,2743.2 m above mean sea level,1 hour fcst,,,,:SIPD:2743.2 m above mean sea level:1 hour fcst:nan:nan
+150,151,24374671,24428254.0,24374671-24428254,2024-04-01,2024-04-01 01:00:00,SIPD,2895.6 m above mean sea level,1 hour fcst,,,,:SIPD:2895.6 m above mean sea level:1 hour fcst:nan:nan
+151,152,24428255,24479740.0,24428255-24479740,2024-04-01,2024-04-01 01:00:00,SIPD,3048 m above mean sea level,1 hour fcst,,,,:SIPD:3048 m above mean sea level:1 hour fcst:nan:nan
+152,153,24479741,24531623.0,24479741-24531623,2024-04-01,2024-04-01 01:00:00,SIPD,3200.4 m above mean sea level,1 hour fcst,,,,:SIPD:3200.4 m above mean sea level:1 hour fcst:nan:nan
+153,154,24531624,24579706.0,24531624-24579706,2024-04-01,2024-04-01 01:00:00,SIPD,3352.8 m above mean sea level,1 hour fcst,,,,:SIPD:3352.8 m above mean sea level:1 hour fcst:nan:nan
+154,155,24579707,24627513.0,24579707-24627513,2024-04-01,2024-04-01 01:00:00,SIPD,3505.2 m above mean sea level,1 hour fcst,,,,:SIPD:3505.2 m above mean sea level:1 hour fcst:nan:nan
+155,156,24627514,24673059.0,24627514-24673059,2024-04-01,2024-04-01 01:00:00,SIPD,3657.6 m above mean sea level,1 hour fcst,,,,:SIPD:3657.6 m above mean sea level:1 hour fcst:nan:nan
+156,157,24673060,24718774.0,24673060-24718774,2024-04-01,2024-04-01 01:00:00,SIPD,3810 m above mean sea level,1 hour fcst,,,,:SIPD:3810 m above mean sea level:1 hour fcst:nan:nan
+157,158,24718775,24762351.0,24718775-24762351,2024-04-01,2024-04-01 01:00:00,SIPD,3962.4 m above mean sea level,1 hour fcst,,,,:SIPD:3962.4 m above mean sea level:1 hour fcst:nan:nan
+158,159,24762352,24809609.0,24762352-24809609,2024-04-01,2024-04-01 01:00:00,SIPD,4114.8 m above mean sea level,1 hour fcst,,,,:SIPD:4114.8 m above mean sea level:1 hour fcst:nan:nan
+159,160,24809610,24854563.0,24809610-24854563,2024-04-01,2024-04-01 01:00:00,SIPD,4267.2 m above mean sea level,1 hour fcst,,,,:SIPD:4267.2 m above mean sea level:1 hour fcst:nan:nan
+160,161,24854564,24898582.0,24854564-24898582,2024-04-01,2024-04-01 01:00:00,SIPD,4419.6 m above mean sea level,1 hour fcst,,,,:SIPD:4419.6 m above mean sea level:1 hour fcst:nan:nan
+161,162,24898583,24937163.0,24898583-24937163,2024-04-01,2024-04-01 01:00:00,SIPD,4572 m above mean sea level,1 hour fcst,,,,:SIPD:4572 m above mean sea level:1 hour fcst:nan:nan
+162,163,24937164,24973576.0,24937164-24973576,2024-04-01,2024-04-01 01:00:00,SIPD,4724.4 m above mean sea level,1 hour fcst,,,,:SIPD:4724.4 m above mean sea level:1 hour fcst:nan:nan
+163,164,24973577,25010195.0,24973577-25010195,2024-04-01,2024-04-01 01:00:00,SIPD,4876.8 m above mean sea level,1 hour fcst,,,,:SIPD:4876.8 m above mean sea level:1 hour fcst:nan:nan
+164,165,25010196,25044377.0,25010196-25044377,2024-04-01,2024-04-01 01:00:00,SIPD,5029.2 m above mean sea level,1 hour fcst,,,,:SIPD:5029.2 m above mean sea level:1 hour fcst:nan:nan
+165,166,25044378,25077403.0,25044378-25077403,2024-04-01,2024-04-01 01:00:00,SIPD,5181.6 m above mean sea level,1 hour fcst,,,,:SIPD:5181.6 m above mean sea level:1 hour fcst:nan:nan
+166,167,25077404,25110954.0,25077404-25110954,2024-04-01,2024-04-01 01:00:00,SIPD,5334 m above mean sea level,1 hour fcst,,,,:SIPD:5334 m above mean sea level:1 hour fcst:nan:nan
+167,168,25110955,25142551.0,25110955-25142551,2024-04-01,2024-04-01 01:00:00,SIPD,5486.4 m above mean sea level,1 hour fcst,,,,:SIPD:5486.4 m above mean sea level:1 hour fcst:nan:nan
+168,169,25142552,25172382.0,25142552-25172382,2024-04-01,2024-04-01 01:00:00,SIPD,5638.8 m above mean sea level,1 hour fcst,,,,:SIPD:5638.8 m above mean sea level:1 hour fcst:nan:nan
+169,170,25172383,25204095.0,25172383-25204095,2024-04-01,2024-04-01 01:00:00,SIPD,5791.2 m above mean sea level,1 hour fcst,,,,:SIPD:5791.2 m above mean sea level:1 hour fcst:nan:nan
+170,171,25204096,25231456.0,25204096-25231456,2024-04-01,2024-04-01 01:00:00,SIPD,5943.6 m above mean sea level,1 hour fcst,,,,:SIPD:5943.6 m above mean sea level:1 hour fcst:nan:nan
+171,172,25231457,25258890.0,25231457-25258890,2024-04-01,2024-04-01 01:00:00,SIPD,6096 m above mean sea level,1 hour fcst,,,,:SIPD:6096 m above mean sea level:1 hour fcst:nan:nan
+172,173,25258891,25285193.0,25258891-25285193,2024-04-01,2024-04-01 01:00:00,SIPD,6248.4 m above mean sea level,1 hour fcst,,,,:SIPD:6248.4 m above mean sea level:1 hour fcst:nan:nan
+173,174,25285194,25305430.0,25285194-25305430,2024-04-01,2024-04-01 01:00:00,SIPD,6400.8 m above mean sea level,1 hour fcst,,,,:SIPD:6400.8 m above mean sea level:1 hour fcst:nan:nan
+174,175,25305431,25325663.0,25305431-25325663,2024-04-01,2024-04-01 01:00:00,SIPD,6553.2 m above mean sea level,1 hour fcst,,,,:SIPD:6553.2 m above mean sea level:1 hour fcst:nan:nan
+175,176,25325664,25343749.0,25325664-25343749,2024-04-01,2024-04-01 01:00:00,SIPD,6705.6 m above mean sea level,1 hour fcst,,,,:SIPD:6705.6 m above mean sea level:1 hour fcst:nan:nan
+176,177,25343750,25358154.0,25343750-25358154,2024-04-01,2024-04-01 01:00:00,SIPD,6858 m above mean sea level,1 hour fcst,,,,:SIPD:6858 m above mean sea level:1 hour fcst:nan:nan
+177,178,25358155,25372495.0,25358155-25372495,2024-04-01,2024-04-01 01:00:00,SIPD,7010.4 m above mean sea level,1 hour fcst,,,,:SIPD:7010.4 m above mean sea level:1 hour fcst:nan:nan
+178,179,25372496,25386497.0,25372496-25386497,2024-04-01,2024-04-01 01:00:00,SIPD,7162.8 m above mean sea level,1 hour fcst,,,,:SIPD:7162.8 m above mean sea level:1 hour fcst:nan:nan
+179,180,25386498,25400034.0,25386498-25400034,2024-04-01,2024-04-01 01:00:00,SIPD,7315.2 m above mean sea level,1 hour fcst,,,,:SIPD:7315.2 m above mean sea level:1 hour fcst:nan:nan
+180,181,25400035,25412972.0,25400035-25412972,2024-04-01,2024-04-01 01:00:00,SIPD,7467.6 m above mean sea level,1 hour fcst,,,,:SIPD:7467.6 m above mean sea level:1 hour fcst:nan:nan
+181,182,25412973,25427129.0,25412973-25427129,2024-04-01,2024-04-01 01:00:00,SIPD,7620 m above mean sea level,1 hour fcst,,,,:SIPD:7620 m above mean sea level:1 hour fcst:nan:nan
+182,183,25427130,25442251.0,25427130-25442251,2024-04-01,2024-04-01 01:00:00,SIPD,7772.4 m above mean sea level,1 hour fcst,,,,:SIPD:7772.4 m above mean sea level:1 hour fcst:nan:nan
+183,184,25442252,25451236.0,25442252-25451236,2024-04-01,2024-04-01 01:00:00,SIPD,7924.8 m above mean sea level,1 hour fcst,,,,:SIPD:7924.8 m above mean sea level:1 hour fcst:nan:nan
+184,185,25451237,25460025.0,25451237-25460025,2024-04-01,2024-04-01 01:00:00,SIPD,8077.2 m above mean sea level,1 hour fcst,,,,:SIPD:8077.2 m above mean sea level:1 hour fcst:nan:nan
+185,186,25460026,25468695.0,25460026-25468695,2024-04-01,2024-04-01 01:00:00,SIPD,8229.6 m above mean sea level,1 hour fcst,,,,:SIPD:8229.6 m above mean sea level:1 hour fcst:nan:nan
+186,187,25468696,25473907.0,25468696-25473907,2024-04-01,2024-04-01 01:00:00,SIPD,8382 m above mean sea level,1 hour fcst,,,,:SIPD:8382 m above mean sea level:1 hour fcst:nan:nan
+187,188,25473908,25475542.0,25473908-25475542,2024-04-01,2024-04-01 01:00:00,SIPD,8534.4 m above mean sea level,1 hour fcst,,,,:SIPD:8534.4 m above mean sea level:1 hour fcst:nan:nan
+188,189,25475543,25477177.0,25475543-25477177,2024-04-01,2024-04-01 01:00:00,SIPD,8686.8 m above mean sea level,1 hour fcst,,,,:SIPD:8686.8 m above mean sea level:1 hour fcst:nan:nan
+189,190,25477178,25478754.0,25477178-25478754,2024-04-01,2024-04-01 01:00:00,SIPD,8839.2 m above mean sea level,1 hour fcst,,,,:SIPD:8839.2 m above mean sea level:1 hour fcst:nan:nan
+190,191,25478755,25479288.0,25478755-25479288,2024-04-01,2024-04-01 01:00:00,SIPD,8991.6 m above mean sea level,1 hour fcst,,,,:SIPD:8991.6 m above mean sea level:1 hour fcst:nan:nan
+191,192,25479289,25479502.0,25479289-25479502,2024-04-01,2024-04-01 01:00:00,SIPD,9144 m above mean sea level,1 hour fcst,,,,:SIPD:9144 m above mean sea level:1 hour fcst:nan:nan
+192,193,25479503,27146033.0,25479503-27146033,2024-04-01,2024-04-01 01:00:00,CAPE,surface,1 hour fcst,,,,:CAPE:surface:1 hour fcst:nan:nan
+193,194,27146034,30999787.0,27146034-30999787,2024-04-01,2024-04-01 01:00:00,CAPE,surface,1 hour fcst,ens std dev,,,:CAPE:surface:1 hour fcst:ens std dev:nan
+194,195,30999788,33062427.0,30999788-33062427,2024-04-01,2024-04-01 01:00:00,CEIL,cloud ceiling,1 hour fcst,,,,:CEIL:cloud ceiling:1 hour fcst:nan:nan
+195,196,33062428,36339473.0,33062428-36339473,2024-04-01,2024-04-01 01:00:00,CEIL,cloud ceiling,1 hour fcst,prob <304.8,prob fcst 3/7,probability forecast,:CEIL:cloud ceiling:1 hour fcst:prob <304.8:prob fcst 3/7:probability forecast
+196,197,36339474,39616519.0,36339474-39616519,2024-04-01,2024-04-01 01:00:00,CEIL,cloud ceiling,1 hour fcst,prob <609.6,prob fcst 4/7,probability forecast,:CEIL:cloud ceiling:1 hour fcst:prob <609.6:prob fcst 4/7:probability forecast
+197,198,39616520,42893565.0,39616520-42893565,2024-04-01,2024-04-01 01:00:00,CEIL,cloud ceiling,1 hour fcst,prob <152.4,prob fcst 2/7,probability forecast,:CEIL:cloud ceiling:1 hour fcst:prob <152.4:prob fcst 2/7:probability forecast
+198,199,42893566,46170611.0,42893566-46170611,2024-04-01,2024-04-01 01:00:00,CEIL,cloud ceiling,1 hour fcst,prob <914.5,prob fcst 5/7,probability forecast,:CEIL:cloud ceiling:1 hour fcst:prob <914.5:prob fcst 5/7:probability forecast
+199,200,46170612,49447657.0,46170612-49447657,2024-04-01,2024-04-01 01:00:00,CEIL,cloud ceiling,1 hour fcst,prob <2011.68,prob fcst 6/7,probability forecast,:CEIL:cloud ceiling:1 hour fcst:prob <2011.68:prob fcst 6/7:probability forecast
+200,201,49447658,53082428.0,49447658-53082428,2024-04-01,2024-04-01 01:00:00,CEIL,cloud base,1 hour fcst,,,,:CEIL:cloud base:1 hour fcst:nan:nan
+201,202,53082429,53999082.0,53082429-53999082,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,5% level,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:5% level:nan
+202,203,53999083,54902823.0,53999083-54902823,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,10% level,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:10% level:nan
+203,204,54902824,55798510.0,54902824-55798510,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,25% level,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:25% level:nan
+204,205,55798511,56696134.0,55798511-56696134,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,50% level,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:50% level:nan
+205,206,56696135,57605556.0,56696135-57605556,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,75% level,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:75% level:nan
+206,207,57605557,58535051.0,57605557-58535051,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,90% level,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:90% level:nan
+207,208,58535052,59458241.0,58535052-59458241,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,95% level,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:95% level:nan
+208,209,59458242,60826475.0,59458242-60826475,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,unknown derived fcst,,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:unknown derived fcst:nan
+209,210,60826476,61376891.0,60826476-61376891,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,prob >50,prob fcst 255/255,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:prob >50:prob fcst 255/255:nan
+210,211,61376892,61872669.0,61376892-61872669,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,prob >65,prob fcst 255/255,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:prob >65:prob fcst 255/255:nan
+211,212,61872670,62361673.0,61872670-62361673,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,prob >70,prob fcst 255/255,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:prob >70:prob fcst 255/255:nan
+212,213,62361674,62842302.0,62361674-62842302,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,prob >75,prob fcst 255/255,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:prob >75:prob fcst 255/255:nan
+213,214,62842303,63312151.0,62842303-63312151,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=19 parm=239,surface,1 hour fcst,prob >85,prob fcst 255/255,,:var discipline=0 center=7 local_table=1 parmcat=19 parm=239:surface:1 hour fcst:prob >85:prob fcst 255/255:nan
+214,215,63312152,64728720.0,63312152-64728720,2024-04-01,2024-04-01 01:00:00,DPT,2 m above ground,1 hour fcst,,,,:DPT:2 m above ground:1 hour fcst:nan:nan
+215,216,64728721,66381995.0,64728721-66381995,2024-04-01,2024-04-01 01:00:00,DPT,2 m above ground,1 hour fcst,ens std dev,,,:DPT:2 m above ground:1 hour fcst:ens std dev:nan
+216,217,66381996,67707013.0,66381996-67707013,2024-04-01,2024-04-01 01:00:00,DSWRF,surface,1 hour fcst,,,,:DSWRF:surface:1 hour fcst:nan:nan
+217,218,67707014,69766650.0,67707014-69766650,2024-04-01,2024-04-01 01:00:00,RETOP,cloud top,1 hour fcst,,,,:RETOP:cloud top:1 hour fcst:nan:nan
+218,219,69766651,70788569.0,69766651-70788569,2024-04-01,2024-04-01 01:00:00,ELLINX,400-300 mb,1 hour fcst,,,,:ELLINX:400-300 mb:1 hour fcst:nan:nan
+219,220,70788570,71269262.0,70788570-71269262,2024-04-01,2024-04-01 01:00:00,FICEAC,surface,0-1 hour acc fcst,,,,:FICEAC:surface:0-1 hour acc fcst:nan:nan
+220,221,71269263,71897131.0,71269263-71897131,2024-04-01,2024-04-01 01:00:00,TURB,surface - 1372 m above ground,1 hour fcst,,,,:TURB:surface - 1372 m above ground:1 hour fcst:nan:nan
+221,222,71897132,72395744.0,71897132-72395744,2024-04-01,2024-04-01 01:00:00,WDIR,surface - 610 m above ground,1 hour fcst,,,,:WDIR:surface - 610 m above ground:1 hour fcst:nan:nan
+222,223,72395745,72900506.0,72395745-72900506,2024-04-01,2024-04-01 01:00:00,DIST,surface - 610 m above ground,1 hour fcst,,,,:DIST:surface - 610 m above ground:1 hour fcst:nan:nan
+223,224,72900507,73405152.0,72900507-73405152,2024-04-01,2024-04-01 01:00:00,WIND,surface - 610 m above ground,1 hour fcst,,,,:WIND:surface - 610 m above ground:1 hour fcst:nan:nan
+224,225,73405153,74929934.0,73405153-74929934,2024-04-01,2024-04-01 01:00:00,MAXREF,1000 m above ground,0-1 hour max fcst,,,,:MAXREF:1000 m above ground:0-1 hour max fcst:nan:nan
+225,226,74929935,77152171.0,74929935-77152171,2024-04-01,2024-04-01 01:00:00,MIXHT,entire atmosphere (considered as a single layer),1 hour fcst,,,,:MIXHT:entire atmosphere (considered as a single layer):1 hour fcst:nan:nan
+226,227,77152172,77921365.0,77152172-77921365,2024-04-01,2024-04-01 01:00:00,APCP,surface,0-1 hour acc fcst,prob >0.254,prob fcst 255/255,,:APCP:surface:0-1 hour acc fcst:prob >0.254:prob fcst 255/255:nan
+227,228,77921366,78541849.0,77921366-78541849,2024-04-01,2024-04-01 01:00:00,PWTHER,surface - reserved,1 hour fcst,,,,:PWTHER:surface - reserved:1 hour fcst:nan:nan
+228,229,78541850,79075959.0,78541850-79075959,2024-04-01,2024-04-01 01:00:00,PTYPE,surface,1 hour fcst,prob >=3 <4,prob fcst 1/1,,:PTYPE:surface:1 hour fcst:prob >=3 <4:prob fcst 1/1:nan
+229,230,79075960,81300849.0,79075960-81300849,2024-04-01,2024-04-01 01:00:00,PTYPE,surface,1 hour fcst,prob >=1 <2,prob fcst 1/1,,:PTYPE:surface:1 hour fcst:prob >=1 <2:prob fcst 1/1:nan
+230,231,81300850,81779487.0,81300850-81779487,2024-04-01,2024-04-01 01:00:00,PTYPE,surface,1 hour fcst,prob >=8 <9,prob fcst 1/1,,:PTYPE:surface:1 hour fcst:prob >=8 <9:prob fcst 1/1:nan
+231,232,81779488,83108486.0,81779488-83108486,2024-04-01,2024-04-01 01:00:00,PTYPE,surface,1 hour fcst,prob >=5 <7,prob fcst 1/1,,:PTYPE:surface:1 hour fcst:prob >=5 <7:prob fcst 1/1:nan
+232,233,83108487,83710328.0,83108487-83710328,2024-04-01,2024-04-01 01:00:00,TSTM,surface,0-1 hour acc fcst,probability forecast,,,:TSTM:surface:0-1 hour acc fcst:probability forecast:nan
+233,234,83710329,84705736.0,83710329-84705736,2024-04-01,2024-04-01 01:00:00,APCP,surface,0-1 hour acc fcst,,,,:APCP:surface:0-1 hour acc fcst:nan:nan
+234,235,84705737,86220424.0,84705737-86220424,2024-04-01,2024-04-01 01:00:00,RH,2 m above ground,1 hour fcst,,,,:RH:2 m above ground:1 hour fcst:nan:nan
+235,236,86220425,87933909.0,86220425-87933909,2024-04-01,2024-04-01 01:00:00,TCDC,surface,1 hour fcst,,,,:TCDC:surface:1 hour fcst:nan:nan
+236,237,87933910,89666245.0,87933910-89666245,2024-04-01,2024-04-01 01:00:00,TCDC,surface,1 hour fcst,ens std dev,,,:TCDC:surface:1 hour fcst:ens std dev:nan
+237,238,89666246,90887766.0,89666246-90887766,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,5% level,,,:SNOWLR:surface:1 hour fcst:5% level:nan
+238,239,90887767,92180268.0,90887767-92180268,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,10% level,,,:SNOWLR:surface:1 hour fcst:10% level:nan
+239,240,92180269,93464497.0,92180269-93464497,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,25% level,,,:SNOWLR:surface:1 hour fcst:25% level:nan
+240,241,93464498,94754467.0,93464498-94754467,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,50% level,,,:SNOWLR:surface:1 hour fcst:50% level:nan
+241,242,94754468,96060515.0,94754468-96060515,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,75% level,,,:SNOWLR:surface:1 hour fcst:75% level:nan
+242,243,96060516,97395133.0,96060516-97395133,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,90% level,,,:SNOWLR:surface:1 hour fcst:90% level:nan
+243,244,97395134,98752767.0,97395134-98752767,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,95% level,,,:SNOWLR:surface:1 hour fcst:95% level:nan
+244,245,98752768,100004903.0,98752768-100004903,2024-04-01,2024-04-01 01:00:00,SNOWLR,surface,1 hour fcst,,,,:SNOWLR:surface:1 hour fcst:nan:nan
+245,246,100004904,100476103.0,100004904-100476103,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,"0-1 hour acc@(fcst,dt=1 hour),missing=0",5% level,,,":ASNOW:surface:0-1 hour acc@(fcst,dt=1 hour),missing=0:5% level:nan"
+246,247,100476104,100948944.0,100476104-100948944,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,"0-1 hour acc@(fcst,dt=1 hour),missing=0",10% level,,,":ASNOW:surface:0-1 hour acc@(fcst,dt=1 hour),missing=0:10% level:nan"
+247,248,100948945,101426821.0,100948945-101426821,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,"0-1 hour acc@(fcst,dt=1 hour),missing=0",25% level,,,":ASNOW:surface:0-1 hour acc@(fcst,dt=1 hour),missing=0:25% level:nan"
+248,249,101426822,101914407.0,101426822-101914407,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,"0-1 hour acc@(fcst,dt=1 hour),missing=0",50% level,,,":ASNOW:surface:0-1 hour acc@(fcst,dt=1 hour),missing=0:50% level:nan"
+249,250,101914408,102424756.0,101914408-102424756,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,"0-1 hour acc@(fcst,dt=1 hour),missing=0",75% level,,,":ASNOW:surface:0-1 hour acc@(fcst,dt=1 hour),missing=0:75% level:nan"
+250,251,102424757,102956356.0,102424757-102956356,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,"0-1 hour acc@(fcst,dt=1 hour),missing=0",90% level,,,":ASNOW:surface:0-1 hour acc@(fcst,dt=1 hour),missing=0:90% level:nan"
+251,252,102956357,103504648.0,102956357-103504648,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,"0-1 hour acc@(fcst,dt=1 hour),missing=0",95% level,,,":ASNOW:surface:0-1 hour acc@(fcst,dt=1 hour),missing=0:95% level:nan"
+252,253,103504649,104036278.0,103504649-104036278,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,,,,:ASNOW:surface:0-1 hour acc fcst:nan:nan
+253,254,104036279,104635363.0,104036279-104635363,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.00254,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.00254:prob fcst 255/255:nan
+254,255,104635364,105166631.0,104635364-105166631,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.00762,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.00762:prob fcst 255/255:nan
+255,256,105166632,105672902.0,105166632-105672902,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.0127,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.0127:prob fcst 255/255:nan
+256,257,105672903,106166644.0,105672903-106166644,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.01778,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.01778:prob fcst 255/255:nan
+257,258,106166645,106649672.0,106166645-106649672,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.0254,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.0254:prob fcst 255/255:nan
+258,259,106649673,107124548.0,106649673-107124548,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.0381,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.0381:prob fcst 255/255:nan
+259,260,107124549,107596320.0,107124549-107596320,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.0508,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.0508:prob fcst 255/255:nan
+260,261,107596321,108066475.0,107596321-108066475,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.0635,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.0635:prob fcst 255/255:nan
+261,262,108066476,108535684.0,108066476-108535684,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.0762,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.0762:prob fcst 255/255:nan
+262,263,108535685,109004320.0,108535685-109004320,2024-04-01,2024-04-01 01:00:00,ASNOW,surface,0-1 hour acc fcst,prob >0.1016,prob fcst 255/255,,:ASNOW:surface:0-1 hour acc fcst:prob >0.1016:prob fcst 255/255:nan
+263,264,109004321,110178563.0,109004321-110178563,2024-04-01,2024-04-01 01:00:00,SNOWLVL,surface,1 hour fcst,5% level,,,:SNOWLVL:surface:1 hour fcst:5% level:nan
+264,265,110178564,111317835.0,110178564-111317835,2024-04-01,2024-04-01 01:00:00,SNOWLVL,surface,1 hour fcst,10% level,,,:SNOWLVL:surface:1 hour fcst:10% level:nan
+265,266,111317836,112423451.0,111317836-112423451,2024-04-01,2024-04-01 01:00:00,SNOWLVL,surface,1 hour fcst,25% level,,,:SNOWLVL:surface:1 hour fcst:25% level:nan
+266,267,112423452,113514063.0,112423452-113514063,2024-04-01,2024-04-01 01:00:00,SNOWLVL,surface,1 hour fcst,50% level,,,:SNOWLVL:surface:1 hour fcst:50% level:nan
+267,268,113514064,114617228.0,113514064-114617228,2024-04-01,2024-04-01 01:00:00,SNOWLVL,surface,1 hour fcst,75% level,,,:SNOWLVL:surface:1 hour fcst:75% level:nan
+268,269,114617229,115775429.0,114617229-115775429,2024-04-01,2024-04-01 01:00:00,SNOWLVL,surface,1 hour fcst,90% level,,,:SNOWLVL:surface:1 hour fcst:90% level:nan
+269,270,115775430,116981270.0,115775430-116981270,2024-04-01,2024-04-01 01:00:00,SNOWLVL,surface,1 hour fcst,95% level,,,:SNOWLVL:surface:1 hour fcst:95% level:nan
+270,271,116981271,117998576.0,116981271-117998576,2024-04-01,2024-04-01 01:00:00,SNOWLVL,0 m above mean sea level,1 hour fcst,,,,:SNOWLVL:0 m above mean sea level:1 hour fcst:nan:nan
+271,272,117998577,118413207.0,117998577-118413207,2024-04-01,2024-04-01 01:00:00,TMP,surface,1 hour fcst,,,,:TMP:surface:1 hour fcst:nan:nan
+272,273,118413208,119846263.0,118413208-119846263,2024-04-01,2024-04-01 01:00:00,TMP,2 m above ground,1 hour fcst,,,,:TMP:2 m above ground:1 hour fcst:nan:nan
+273,274,119846264,121547801.0,119846264-121547801,2024-04-01,2024-04-01 01:00:00,TMP,2 m above ground,1 hour fcst,ens std dev,,,:TMP:2 m above ground:1 hour fcst:ens std dev:nan
+274,275,121547802,122727308.0,121547802-122727308,2024-04-01,2024-04-01 01:00:00,TRWDIR,entire atmosphere (considered as a single layer),1 hour fcst,,,,:TRWDIR:entire atmosphere (considered as a single layer):1 hour fcst:nan:nan
+275,276,122727309,124168936.0,122727309-124168936,2024-04-01,2024-04-01 01:00:00,TRWSPD,entire atmosphere (considered as a single layer),1 hour fcst,,,,:TRWSPD:entire atmosphere (considered as a single layer):1 hour fcst:nan:nan
+276,277,124168937,124656774.0,124168937-124656774,2024-04-01,2024-04-01 01:00:00,THUNC,entire atmosphere,1-2 hour missing fcst,,,,:THUNC:entire atmosphere:1-2 hour missing fcst:nan:nan
+277,278,124656775,127403496.0,124656775-127403496,2024-04-01,2024-04-01 01:00:00,VIL,entire atmosphere,1 hour fcst,,,,:VIL:entire atmosphere:1 hour fcst:nan:nan
+278,279,127403497,128106531.0,127403497-128106531,2024-04-01,2024-04-01 01:00:00,VIS,surface,1 hour fcst,,,,:VIS:surface:1 hour fcst:nan:nan
+279,280,128106532,130915456.0,128106532-130915456,2024-04-01,2024-04-01 01:00:00,VIS,surface,1 hour fcst,prob <1609.34,prob fcst 2/6,probability forecast,:VIS:surface:1 hour fcst:prob <1609.34:prob fcst 2/6:probability forecast
+280,281,130915457,134192502.0,130915457-134192502,2024-04-01,2024-04-01 01:00:00,VIS,surface,1 hour fcst,prob <3218.69,prob fcst 3/6,probability forecast,:VIS:surface:1 hour fcst:prob <3218.69:prob fcst 3/6:probability forecast
+281,282,134192503,137469548.0,134192503-137469548,2024-04-01,2024-04-01 01:00:00,VIS,surface,1 hour fcst,prob <4828.03,prob fcst 4/6,probability forecast,:VIS:surface:1 hour fcst:prob <4828.03:prob fcst 4/6:probability forecast
+282,283,137469549,140746594.0,137469549-140746594,2024-04-01,2024-04-01 01:00:00,VIS,surface,1 hour fcst,prob <8046.73,prob fcst 5/6,probability forecast,:VIS:surface:1 hour fcst:prob <8046.73:prob fcst 5/6:probability forecast
+283,284,140746595,144421739.0,140746595-144421739,2024-04-01,2024-04-01 01:00:00,VRATE,entire atmosphere (considered as a single layer),1 hour fcst,,,,:VRATE:entire atmosphere (considered as a single layer):1 hour fcst:nan:nan
+284,285,144421740,145827177.0,144421740-145827177,2024-04-01,2024-04-01 01:00:00,var discipline=0 center=7 local_table=1 parmcat=0 parm=206,surface,1 hour fcst,,,,:var discipline=0 center=7 local_table=1 parmcat=0 parm=206:surface:1 hour fcst:nan:nan
+285,286,145827178,146958172.0,145827178-146958172,2024-04-01,2024-04-01 01:00:00,WDIR,30 m above ground,1 hour fcst,,,,:WDIR:30 m above ground:1 hour fcst:nan:nan
+286,287,146958173,148089167.0,146958173-148089167,2024-04-01,2024-04-01 01:00:00,WDIR,80 m above ground,1 hour fcst,,,,:WDIR:80 m above ground:1 hour fcst:nan:nan
+287,288,148089168,149220162.0,148089168-149220162,2024-04-01,2024-04-01 01:00:00,WDIR,10 m above ground,1 hour fcst,,,,:WDIR:10 m above ground:1 hour fcst:nan:nan
+288,289,149220163,150608211.0,149220163-150608211,2024-04-01,2024-04-01 01:00:00,GUST,10 m above ground,1 hour fcst,,,,:GUST:10 m above ground:1 hour fcst:nan:nan
+289,290,150608212,152603244.0,150608212-152603244,2024-04-01,2024-04-01 01:00:00,GUST,10 m above ground,1 hour fcst,ens std dev,,,:GUST:10 m above ground:1 hour fcst:ens std dev:nan
+290,291,152603245,154139140.0,152603245-154139140,2024-04-01,2024-04-01 01:00:00,WIND,30 m above ground,1 hour fcst,,,,:WIND:30 m above ground:1 hour fcst:nan:nan
+291,292,154139141,155666945.0,154139141-155666945,2024-04-01,2024-04-01 01:00:00,WIND,80 m above ground,1 hour fcst,,,,:WIND:80 m above ground:1 hour fcst:nan:nan
+292,293,155666946,157147510.0,155666946-157147510,2024-04-01,2024-04-01 01:00:00,WIND,10 m above ground,1 hour fcst,,,,:WIND:10 m above ground:1 hour fcst:nan:nan
+293,294,157147511,,157147511-,2024-04-01,2024-04-01 01:00:00,WIND,10 m above ground,1 hour fcst,ens std dev,,,:WIND:10 m above ground:1 hour fcst:ens std dev:nan

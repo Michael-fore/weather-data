@@ -1,20 +1,12 @@
 # blend.t01z.core.f001.ak.grib2     
-
+from cfgrib.xarray_store import open_variable_datasets,merge_datasets
 import xarray as xr
-
-path=r'local\data\blend.t00z.master.f001.co.grib2'
-
-ds = xr.load_dataset(path, engine='cfgrib')
-
-
-
-# # convert file from bytes to text
-# with open(path, 'rb') as f:
-#     data = f.read()
-
-# # print(data)
-# with open(path+'.csv', 'w') as f:
-#     f.write(data.decode('utf-8'))
+import io
+import cfgrib
+# cloud run lets you write to the /tmp file, 
+# 
 
 
-# print(ds)
+ds = cfgrib.open_datasets('local/data/blend.t00z.master.f001.co.grib2')
+
+print(ds)
