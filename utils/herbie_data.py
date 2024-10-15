@@ -36,8 +36,8 @@ class Herb:
         self.h = Herbie(date, model=model, fxx=fxx, product=product, save_dir=save_dir)
 
         if not self.h:
-            raise Exception('File doesn\'t exist')
-        self.h.download()
+            self.h.download()
+        # self.h.download()
 
     def save_file(self):
 

@@ -1,4 +1,4 @@
-import datetime 
+from datetime import datetime
 
 class Ledger:
   '''
@@ -20,7 +20,7 @@ class Ledger:
     '''
     pass
 
-  def log_start(self, product):
+  def log_start(self):
     '''
     Log the start of a run
     '''
