@@ -1,4 +1,8 @@
 from datetime import datetime
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 class Ledger:
   '''

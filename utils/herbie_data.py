@@ -45,7 +45,11 @@ class Herb:
       
 
     def generate_file_path(self):
-        return f'{self.save_dir}/{self.model}/{self.date}/{self.fxx}/{self.product}.csv'
+        year, month, day = self.date.split('-')
+        path =  f'{self.save_dir}/{self.model}/{year}/{month}/{day}/{self.fxx}/'
+        Path(path).mkdir(parents=True, exist_ok=True)
+        path += f'{self.product}.csv'
+        return path
 
     def make_master_dataframe(self):
         master_df = pd.DataFrame()
@@ -53,20 +57,24 @@ class Herb:
         # as much as possible
         for i, df in enumerate(self.make_data_frames()):
             # print(df.head().to_string())
-            print(master_df.head().to_string())
+            # print(master_df.head().to_string())
+            print('Loading DS: ', i)
+            print(master_df.columns)
             try:
+                print(f'Loading {len(df)} rows into master_df which has {len(master_df)} rows') 
                 master_df = pd.concat([master_df, df], axis=1)
             except pd.errors.InvalidIndexError:
                 #rename incoming columns
                 print('errors on ds', i)
-                print(df.columns)
+                # print(df.columns)
                 # df.to_csv(f'tmp/{i}.csv')
 
-                df.columns = [f'{col}_{i}_ix' for ix, col in enumerate(df.columns)]
-                print(df[df.index.duplicated(keep=False)].to_csv(f'tmp/dupes_{i}.csv'))
+                # df.columns = [f'{col}_{i}_ix' for ix, col in enumerate(df.columns)]
+                # df[df.duplicated(keep=False)].head(100).to_csv(f'tmp/___dupes_{i}.csv')
+                # print(df.index.duplicated(keep=False))#.to_csv(f'tmp/__dupes_{i}.csv')
+                # dupe_df.to_csv(f'tmp/{i}.csv')
+                # print()
                 # master_df = pd.concat([master_df, df], axis=1)
-
-
         return master_df
     
     def make_data_frames(self):
@@ -90,3 +98,11 @@ class Herb:
         df.drop(columns=DROP_COLS, inplace=True, errors='ignore')
         return df
     
+
+date, fxx, model, product = '2022-04-01', 10,  'nbm', 'co'
+h = Herb(date, model, fxx, product)
+h.save_file()
+# s = Storage()
+path = h.generate_file_path()
+# s.upload_file(path)
+print(path)
