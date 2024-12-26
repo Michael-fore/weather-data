@@ -1,3 +1,9 @@
+
+# Fuck it
+gonna try something very different from the normal data pipeline i have made/worked with.
+only save the "copy intos" for different version, and have a ledger for the copy 
+into pipelines to keep track of stuff.
+
 # weather-data
 Supposed to make some publicly available weather data a bit easier to use.
 
